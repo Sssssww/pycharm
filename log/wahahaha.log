@@ -1,0 +1,9 @@
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2018-11-06 16:16:11,676======WARNING+++++++(message)s
+2018-11-06 16:16:11,677======ERROR+++++++(message)s
+2018-11-06 16:16:11,677======CRITICAL+++++++(message)s
+2018-11-06 16:17:07,519======WARNING+++++++This is a warning log.
+2018-11-06 16:17:07,520======ERROR+++++++This is a error log.
+2018-11-06 16:17:07,520======CRITICAL+++++++This is a critical log.
